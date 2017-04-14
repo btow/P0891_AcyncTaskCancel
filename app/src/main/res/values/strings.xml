@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P0891_AcyncTaskCancel</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="begin">Begin</string>
+    <string name="end">End</string>
+</resources>
