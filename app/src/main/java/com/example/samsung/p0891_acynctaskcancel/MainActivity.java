@@ -91,6 +91,8 @@ public class MainActivity extends AppCompatActivity {
 
         if (myTask == null) return;
 
-        String message = "Cancel result: " + myTask.cancel(false);
+//        String message = "Cancel result: " + myTask.cancel(false);
+        String message = "Cancel result: " + myTask.cancel(true);
+        Log.d(LOG_TAG, message);
     }
 }
